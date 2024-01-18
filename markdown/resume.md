@@ -1,13 +1,12 @@
-Johnny Coder
+David Holt
 ============
 
-----
+Software Developer
+-----------------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
+- Full stack software developer with many years' experience designing and building multi-tiered applications, both in traditional data centers and in the cloud.
+- Knowledge of commercial and open-source softwarek/database engineering tools and design techniques.
+- Multiple years' experience working on agile teams.
 
 Education
 ---------
@@ -96,5 +95,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <dpjh747@example.com> • +1 (216) 318 0103 • 57 years old\
+> address - Shaker Heights, OH, USA
