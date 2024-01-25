@@ -19,7 +19,7 @@ Education
 Experience
 ----------
 
-### Western Governors University. - Salt Lake City, UT
+### Western Governors University - Salt Lake City, UT
 
 **Senior Software Engineer**, 2022-2023
 
