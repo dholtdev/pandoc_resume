@@ -143,5 +143,5 @@ Technical Summary
 AWS, Bash, Bootstrap, C, C++, C#, CSS/SCSS/Sass, Elixir, Gradle, Handlebars, HTML, Jasmine, Java, JavaScript, Jenkins, JQuery, Lodash, Maven, Mocha, MongoDB, MySQL, .NET, NodeJS, Phoenix, PostgreSQL, Python, Rails, RavenDB, Redis, Ruby, Spring, SQL, SQL Server, TeamCity, Terraform, XML
 
 
-> <dpjh747@example.com> • +1 (216) 318 0103 • 57 years old\
-> address - Shaker Heights, OH, USA
+> <dpjh747@example.com> • +1 (216) 318-0103 • 57 years old\
+> 3613 Lynnfield Rd Apt 1, Shaker Heights, OH, USA
